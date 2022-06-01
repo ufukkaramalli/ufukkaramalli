@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ufuk karamalli</h1>
 <h3 align="center">A passionate frontend developer from turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ufukkaramalli" alt="ufukkaramalli" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ufukkaramalli&label=Profile%20views&color=0e75b6&style=flat" alt="ufukkaramalli" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ufukkaramalli" target="blank"><img src="https://img.shields.io/twitter/follow/ufukkaramalli?logo=twitter&style=for-the-badge" alt="ufukkaramalli" /></a> </p>
 
