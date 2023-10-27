@@ -6,7 +6,7 @@
 ### <div align="center">I'm Ufuk, a passionate frontend developer from turkey</div>  
   
 
-- 🔭 I’m currently working on [cryportfolio](https://github.com/ufukkaramalli/cryportfolio)  
+- 🔭 I’m currently working on [MADEKRAFT's New App](https://madekraft.com/)  
   
 
 <br/>  
